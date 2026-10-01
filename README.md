@@ -1,2 +1,4 @@
 # git-collab-pulling-practice
-git duo pulling practice
+
+I have made some changes
+
